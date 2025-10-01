@@ -19,9 +19,6 @@ Millisecond Precision: I used an audio editing tool to segment every event to mi
 Linguistic Isolation: I broke down complex segments like the repetition by inserting a separate SILENCE label for the tiny pause between 'think' and 'I think.' This demonstrates next-level linguistic analysis by marking a hesitation in the thought process.
 
 Conclusion: The Result
-The final log is a high-fidelity data set that is ready for model training. It demonstrates a commitment to every job duty:
 I can label and organize diverse elements.
-
 I can conduct detailed linguistic analysis on messy speech.
-
-And most importantly, I understand that the primary goal is to produce clean, validated data to ensure the reliability of Podcastle's AI features.
+And most importantly, I understand that the primary goal is to produce clean, validated data to ensure reliability.
