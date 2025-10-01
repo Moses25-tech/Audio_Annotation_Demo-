@@ -1,5 +1,7 @@
 # Audio_Annotation_Demo-
 The Audio Annotation Demo
+
+
 Thank you for giving me the opportunity to walk you through this project. The goal of this demo was to produce a simple annotation log that directly addresses the core requirements of the Audio AI Annotator role, particularly the need for detailed linguistic analysis.
 
 I approached this project in three distinct phases:
