@@ -22,4 +22,4 @@ I can label and organize diverse elements.
 
 I can conduct detailed linguistic analysis on messy speech.
 
-And most importantly, I understand that the primary goal is to produce clean, validated data to ensure the reliability of Podcastle's AI features."
+And most importantly, I understand that the primary goal is to produce clean, validated data to ensure the reliability of Podcastle's AI features.
